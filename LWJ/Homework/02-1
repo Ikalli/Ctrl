@@ -1,0 +1,7 @@
+Enter file contents here#include <stdio.h>
+
+ int main(void)
+ {
+    printf("이원재\n이 원 재\n이  원  재\n");
+    return 0;
+    }
