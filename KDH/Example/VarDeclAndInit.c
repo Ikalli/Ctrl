@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int num1, num2:   //변수 num1, num2의 선언
+    int num1, num2;   //변수 num1, num2의 선언
     int num3=30, num4=40;   //변수 num3, num4의 선언 및 초기화
     
     printf("num1: %d, num2: %d \n", num1, num2);
