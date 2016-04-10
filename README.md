@@ -28,7 +28,7 @@
 ##방침
 * 멘토링 시간에 작성한 예제는 Example 폴더에 넣어주세요
 * 멘토링 시간에 내준 숙제는 Homework 폴더에 넣어주세요  
-* [멘토링 방침](https://github.com/Manicarus/BJCloud/wiki/%EB%A9%98%ED%86%A0%EB%A7%81-%EA%B7%9C%EC%B9%99)
+* [멘토링 규칙](https://github.com/Manicarus/BJCloud/wiki/%EB%A9%98%ED%86%A0%EB%A7%81-%EA%B7%9C%EC%B9%99)
 
 ***
 
