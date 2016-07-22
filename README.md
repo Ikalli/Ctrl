@@ -1,7 +1,7 @@
 # 자율동아리 Ctrl 입니다
 -------
 이 문서는 HarooPad를 사용한 마크다운 문법을 적용해 작성된 문서입니다  
-깃허브 사용시 Internet Explorer 보다 **IE 보다 Chrome을 권장합니다**
+깃허브 사용시 **IE 보다 Chrome을 권장합니다**
 ***
 
 ##목적
